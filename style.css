@@ -1,0 +1,19 @@
+.calculator {
+    width: 400px;
+    margin: 100px auto;
+}
+
+.result {
+    background-color: #f2f2f2;
+    text-align: right;
+    padding: 20px;
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+.keypad button {
+    width: 25%;
+    padding: 20px;
+    font-size: 1.5em;
+    margin: 5px;
+}
